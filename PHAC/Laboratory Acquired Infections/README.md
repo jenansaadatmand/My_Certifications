@@ -1,1 +1,1 @@
-Laboratory Acquired Infections certificate from PHAC
+Laboratory Acquired Infections certificate from Public Health Agency of Canada (PHAC), Health Canada (HC)
