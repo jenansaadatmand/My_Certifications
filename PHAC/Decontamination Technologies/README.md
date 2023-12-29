@@ -1,1 +1,1 @@
-Decontamination Technologies certificate from PHAC
+Decontamination Technologies certificate from Public Health Agency of Canada (PHAC), Health Canada (HC)
