@@ -1,5 +1,6 @@
 This repository contains all my certificates related to the Interpretation and application of ICH E6(R2), 10 Modules from the MRCT center of Bringham and Women's Hospital, 
-Mass General Brigham, Harvard University.
+Mass General Brigham, 
+Harvard University.
 
 Interpretation and application of ICH E6(R2). 10 Modules:
 
