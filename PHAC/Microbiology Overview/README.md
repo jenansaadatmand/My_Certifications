@@ -1,1 +1,1 @@
-Microbiology Overview certificate from PHAC
+Microbiology Overview certificate from Public Health Agency of Canada (PHAC), Health Canada (HC)
