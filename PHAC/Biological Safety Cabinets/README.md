@@ -1,1 +1,1 @@
-Biological Safety Cabinets certificate from PHAC
+Biological Safety Cabinets certificate from Pubilc Health Agency of Canada (PHAC), Health Canada (HC)
