@@ -1,1 +1,1 @@
-Local Risk Assessment certificate from PHAC
+Local Risk Assessment certificate from Public Health Agency of Canada (PHAC), Health Canada (HC)
