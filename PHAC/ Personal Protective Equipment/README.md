@@ -1,1 +1,1 @@
-Personal Protective Equipment certificate from PHAC
+Personal Protective Equipment certificate from Pubilc Health Agency of Canada (PHAC), Health Canada (HC)
