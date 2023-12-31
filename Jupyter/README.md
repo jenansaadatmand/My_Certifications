@@ -1,1 +1,1 @@
-This repository contains my Jupyter certificate from Microsoft Learn platfom. 
+This repository contains my Jupyter Notebooks for Python certificate from Microsoft Learn platfom. 
