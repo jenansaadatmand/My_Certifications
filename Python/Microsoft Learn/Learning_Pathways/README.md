@@ -15,5 +15,12 @@ This repository contains the learning pathways that I have attained through Micr
 - Error checking
 - Get familiar with Jupyter notebooks
 
-2. # Get started with the Linux command line and the Shell
-- 
+2. ## Get started with the Linux command line and the Shell
+- The command line is something you will interact with often when using Linux, both as a developer and admin. Knowing how it works and what commands you can use can greatly increase your productivity.
+- In this learning path, you will get started with the Linux command line. You will:
+
+- Navigate the file system
+- Handle processes
+- Search text files
+- Assign file access permissions
+- Script tasks
