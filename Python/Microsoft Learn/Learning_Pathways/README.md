@@ -14,4 +14,4 @@ This repository contains the learning pathways that I have attained through Micr
 - Error checking
 - Get familiar with Jupyter notebooks
 
-3.  
+2.** Get started with the Linux command line and the Shell  **
