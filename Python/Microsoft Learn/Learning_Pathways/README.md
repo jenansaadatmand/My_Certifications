@@ -4,14 +4,14 @@ This repository contains the learning pathways that I have attained through Micr
 
 - Write your first program in Python
 - Explore packages to better manage projects
-Learn Python basics, including the following elements:
-Boolean types
-Strings
-Mathematical operations
-Lists and loops
-Dictionaries
-Functions
-Error checking
-Get familiar with Jupyter notebooks
+- Learn Python basics, including the following elements:
+- Boolean types
+- Strings
+- Mathematical operations
+- Lists and loops
+- Dictionaries
+- Functions
+- Error checking
+- Get familiar with Jupyter notebooks
 
-3. 
+3.  
